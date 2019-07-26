@@ -1,0 +1,9 @@
+# BLOG-Django-2.2-blog
+A simple fully functional blog  developed in python(Django 2.2), bootstrap  4, css and Html.
+
+I used python3,  django 2.2 and bootstrap 4.
+
+command ;
+python3 manage.py runserver to start local server  and runs on port /8000/
+python3 manage.py makemigration  and python3 manage.py migrate when you makes changes on  models.
+
